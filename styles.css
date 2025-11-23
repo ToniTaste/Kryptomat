@@ -1,0 +1,52 @@
+body {
+  margin: 20px;
+}
+
+#container {
+  display: flex;
+  gap: 5px;
+  align-items: flex-start;
+}
+
+.streifen {
+  width: 60px;
+  border: 1px solid #444;
+  overflow: hidden;
+  font-family: Consolas, "Courier New", monospace;
+}
+
+.streifen:not(:first-child) {
+  border-left: 3px solid #444;
+}
+
+.alphabet {
+  user-select: none;
+  -webkit-user-select: none;
+}
+
+.alphabet p {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+  height: 22px;
+  line-height: 22px;
+}
+
+.control {
+  text-align: center;
+  user-select: none;
+  height: 22px;
+  line-height: 22px;
+  background: #eee;
+}
+
+.highlight {
+  background: yellow;
+  font-weight: bold;
+}
+
+.keyletter {
+  background: orange;
+  font-weight: bold;
+}
