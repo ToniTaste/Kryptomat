@@ -18,7 +18,7 @@ Ein interaktives Tool zum Probieren und Verstehen einer polyalphabetisachen Vers
 
 > Wird unterstützt durch **GitHub Pages**.
 
-👉 [Hier klicken, um das Projekt direkt im Browser zu starten](https://tonitaste.github.io/Robby/index.html)
+👉 [Hier klicken, um das Projekt direkt im Browser zu starten](https://tonitaste.github.io/Kryptomat/index.html)
 
 ## 📦 Installation (lokal)
 
